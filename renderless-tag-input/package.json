@@ -1,0 +1,21 @@
+{
+  "name": "parcel-tag-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Mitchell Gritts <mitchellgritts@gmail.com> (mitchellgritts.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.2",
+    "parcel-bundler": "^1.12.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
